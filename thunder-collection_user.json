@@ -1,0 +1,81 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "user",
+    "collectionId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+    "dateExported": "2024-11-25T18:03:01.360Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "43a684f2-9530-44b0-8972-4675ae282211",
+            "colId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+            "containerId": "",
+            "name": "deleteUser",
+            "url": "http://localhost:5100/user/2",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-11-25T18:02:18.733Z",
+            "modified": "2024-11-25T18:02:18.733Z",
+            "headers": []
+        },
+        {
+            "_id": "83be10a8-dcb7-46a0-a0f8-38b1c7f879b1",
+            "colId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+            "containerId": "",
+            "name": "updateUser",
+            "url": "http://localhost:5100/user/2",
+            "method": "PUT",
+            "sortNum": 20000,
+            "created": "2024-11-25T18:02:28.380Z",
+            "modified": "2024-11-25T18:02:28.380Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"firstName\":\"Abhi\",\n  \"lastName\":\"Haikerwal\",\n  \"hobby\":\"music and coding\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "dc287e82-0b64-45c2-980e-f89c807124f9",
+            "colId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+            "containerId": "",
+            "name": "getUserByUserId",
+            "url": "http://localhost:5100/users/2",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-11-25T18:02:35.465Z",
+            "modified": "2024-11-25T18:02:35.465Z",
+            "headers": []
+        },
+        {
+            "_id": "b9954d97-8091-464d-ba9f-38d0799b60f0",
+            "colId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+            "containerId": "",
+            "name": "getUsers",
+            "url": "http://localhost:5100/users",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-11-25T18:02:43.919Z",
+            "modified": "2024-11-25T18:02:43.919Z",
+            "headers": []
+        },
+        {
+            "_id": "968f249d-7469-476b-a1c0-7df5b93ad479",
+            "colId": "c79d2620-53e4-4533-8fb2-544d6ecfa35c",
+            "containerId": "",
+            "name": "addUser",
+            "url": "http://localhost:5100/user",
+            "method": "POST",
+            "sortNum": 50000,
+            "created": "2024-11-25T18:02:50.485Z",
+            "modified": "2024-11-25T18:02:50.485Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"firstName\":\"Abhishek\",\n  \"lastName\":\"Haikerwal\",\n  \"hobby\":\"music\"\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "zvk5To7DHXF5K4pbsl7tsEItf9GvMpBlcS-Sb8uyw_S4Mq6GuAafro4YWYO3v2I7lx445WF865xLhR1mAPtg8Q"
+}
