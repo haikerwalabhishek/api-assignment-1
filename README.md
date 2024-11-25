@@ -12,14 +12,14 @@ This assignment evaluates the basic knowledge gained in Node.js and Express.js f
 
 ## Preview:
 
-<img src="https://raw.githubusercontent.com/haikerwalabhishek/WeatherApp-WatchWeather/master/preview2.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/WeatherApp-WatchWeather/master/preview1.png" height=200px width=300px>
+<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/addUser.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/deleteUser.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUserByUserId.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUsers.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/updateUser.png" height=200px width=300px>
 
 
 
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js and npm installed on your machine
+- Node.js and express js
 
 ### Installation
 1. Clone the repository:
@@ -27,10 +27,6 @@ This assignment evaluates the basic knowledge gained in Node.js and Express.js f
    git clone https://github.com/haikerwalabhishek/WeatherApp-WatchWeather.git
    
 2. Install the dependencies:
-   - npm
-   - node.js
-   - tailwind
+   - node js
+   - express js
 
-### License
-
-[GitHub Repository Link](https://github.com/haikerwalabhishek/WeatherApp-WatchWeather)
