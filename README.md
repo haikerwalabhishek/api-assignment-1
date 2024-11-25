@@ -24,7 +24,7 @@ This assignment evaluates the basic knowledge gained in Node.js and Express.js f
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/haikerwalabhishek/WeatherApp-WatchWeather.git
+   git clone https://github.com/haikerwalabhishek/api-assignment-1.git
    
 2. Install the dependencies:
    - node js
