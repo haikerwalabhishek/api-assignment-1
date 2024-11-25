@@ -12,7 +12,7 @@ This assignment evaluates the basic knowledge gained in Node.js and Express.js f
 
 ## Preview:
 
-<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/addUser.png" height=300px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/deleteUser.png" height=300px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUserByUserId.png" height=300px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUsers.png" height=300px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/updateUser.png" height=300px width=300px>
+<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/addUser.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/deleteUser.png" height=300px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUserByUserId.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/getUsers.png" height=200px width=300px>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/haikerwalabhishek/api-assignment-1/refs/heads/main/screenshots/updateUser.png" height=200px width=300px>
 
 
 
